@@ -1,0 +1,56 @@
+languageCode = "en-us"
+ignoreFiles = [ "\\.files/README.md$",  ]
+defaultContentLanguage = "en"
+title = "Get Started on Amazon SageMaker"
+theme = "learngold"
+uglyurls = false
+googleAnalytics = "UA-44634850-4"
+sectionPagesMenu = "main"
+relativeURLs = true
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+editURL = "https://github.com/w601sxs/aws-sagemaker-workshop/edit/master/content/"
+themeVariant = "mine"
+showVisitedLinks = false
+author = ""
+description = "Amazon SageMaker Workshop"
+disableSearch = false
+disableAssetsBusting = false
+disableLanguageSwitchingButton = true
+disableShortcutsTitle=false
+disableInlineCopyToClipBoard = true
+ghrepo = "https://github.com/w601sxs/aws-sagemaker-workshop"
+branch = "master"
+template_bucket = "sagemakerworkshop.com"
+
+
+
+#
+
+[menu]
+  [[menu.main]]
+    identifier = "Prerequisites"
+    name = "This is the Mu track"
+    title = "Workshop using Mu"
+    url = "/mu/"
+    weight = -110
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> More Resources"
+url = "/more_resources"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-users'></i> Authors"
+url = "/authors"
+weight = 20
+
+
+
+
+[outputs]
+home = [ "HTML", "JSON"]
+page = [ "HTML" ]
