@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SageMaker Studio Workshop on Get Started on Amazon SageMaker</title>
+    <link>/workshop-sm-studio/</link>
+    <description>Recent content in SageMaker Studio Workshop on Get Started on Amazon SageMaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 08:16:25 -0600</lastBuildDate><atom:link href="/workshop-sm-studio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

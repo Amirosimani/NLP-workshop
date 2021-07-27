@@ -1,0 +1,85 @@
+[
+{
+	"uri": "/",
+	"title": "NLP Workshop",
+	"tags": [],
+	"description": "",
+	"content": "NLP Welcome! Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nWorkshop website: http://bit.ly/nlp\nDay1    Agenda       9:10 AM - 9:30 AM Presentation    9:30 AM - 10:00 AM Lab    10:00 AM - 10:10 AM Presentation    10:10 AM - 10:30 AM Lab    10:30 AM - 10:40 AM  Break   10:40 AM - 10:50 AM Presentation    10:50 AM - 11:50 AM Lab    11:20 AM - 12:00 AM      "
+},
+{
+	"uri": "/workshop-sm-studio/",
+	"title": "SageMaker Studio Workshop",
+	"tags": [],
+	"description": "",
+	"content": "Machine Learning Training using SageMaker Studio Amazon SageMaker Studio is an integrated development environment (IDE) that gives you complete access, control, and visibility into each step required to build, train, and deploy models. You can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, compare results, and deploy models to production all in one place, making you much more productive..\nAmazon SageMaker makes it easy to train machine learning (ML) models by providing everything you need to tune and debug models and execute training experiments. After you choose the right algorithms and frameworks from the wide range of choices available, it manages all of the underlying infrastructure to train your model at petabyte scale, and deploy it to production.\nIn this workshop you will learn how to use Amazon SageMaker Studio to train your models including:\n How to train a model using an algorithm provided by Amazon SageMaker How to use your custom code (script) to train a model on Amazon SageMaker Studio How to bring your own custom algorithms as containers to run on SageMaker Studio How to track, evaluate, and organize training experiments How to distribute your training job How to tune your model How to get full visibility into the training process through Amazon SageMaker Debugger  "
+},
+{
+	"uri": "/workshop-sm-studio/1_gettingstarted/",
+	"title": "Getting Started",
+	"tags": [],
+	"description": "",
+	"content": "Getting Started To start this workshop, if you have not already, you should setup Amazon SageMaker Studio, and then login. In this chapter, we’ll do the following:\n Amazon SageMaker Studio setup Cloning the repository  "
+},
+{
+	"uri": "/workshop-sm-studio/2_builtin/",
+	"title": "Built-in",
+	"tags": [],
+	"description": "",
+	"content": "Getting Started To start this workshop, if you have not already, you should setup Amazon SageMaker Studio, and then login. In this chapter, we’ll do the following:\n Amazon SageMaker Studio setup Cloning the repository  "
+},
+{
+	"uri": "/workshop-sm-studio/1_gettingstarted/create/",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": "  Login into Amazon SageMaker\n  Select a Region.\nAmazon SageMaker Studio is available in the following AWS Regions:\n US East (Ohio), us-east-2 US East (N. Virginia), us-east-1 US West (N. Oregon), us-west-2 China (Beijing), cn-north-1 China (Ningxia), cn-northwest-1 EU (Ireland), eu-west-1  To change the Region in the Amazon SageMaker console, use the Region selector at the upper-right corner of the console.\n  Click on Amazon SageMaker Studio and complete the Studio onboarding process using the Amazon SageMaker console.\nWhen onboarding, you can choose to use either AWS Single Sign-On (AWS SSO) or AWS Identity and Access Management (IAM) for authentication methods. When you use IAM authentication, you can choose either the Quick start or the Standard setup procedure.\n The simplest way to create an Amazon SageMaker Studio account is to follow the Quick start procedure. For more control, including the option of using AWS SSO authentication, use the Standard setup procedures. Follow this link to create a notebook instance:    login into the studio either through AWS SSO authentication or with IAM authentication.\n  In the next step, we will load the notebooks into Amazon SageMaker Studio.\n"
+},
+{
+	"uri": "/workshop-sm-studio/2_builtin/create/",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": "  Login into Amazon SageMaker\n  Select a Region.\nAmazon SageMaker Studio is available in the following AWS Regions:\n US East (Ohio), us-east-2 US East (N. Virginia), us-east-1 US West (N. Oregon), us-west-2 China (Beijing), cn-north-1 China (Ningxia), cn-northwest-1 EU (Ireland), eu-west-1  To change the Region in the Amazon SageMaker console, use the Region selector at the upper-right corner of the console.\n  Click on Amazon SageMaker Studio and complete the Studio onboarding process using the Amazon SageMaker console.\nWhen onboarding, you can choose to use either AWS Single Sign-On (AWS SSO) or AWS Identity and Access Management (IAM) for authentication methods. When you use IAM authentication, you can choose either the Quick start or the Standard setup procedure.\n The simplest way to create an Amazon SageMaker Studio account is to follow the Quick start procedure. For more control, including the option of using AWS SSO authentication, use the Standard setup procedures. Follow this link to create a notebook instance:    login into the studio either through AWS SSO authentication or with IAM authentication.\n  In the next step, we will load the notebooks into Amazon SageMaker Studio.\n"
+},
+{
+	"uri": "/workshop-sm-studio/1_gettingstarted/clone/",
+	"title": "Clone the Repository",
+	"tags": [],
+	"description": "",
+	"content": "Now, let\u0026rsquo;s open a Terminal in SageMaker studio by going to File \u0026gt; New \u0026gt; Terminal and perform the following commands\ngit clone https://github.com/saeedaghabozorgi/MLAI.git On the left sidebar, we\u0026rsquo;ll see a new folder called \u0026ldquo;MLAI\u0026rdquo;\n"
+},
+{
+	"uri": "/workshop-sm-studio/2_builtin/clone/",
+	"title": "Clone the Repository",
+	"tags": [],
+	"description": "",
+	"content": "Now, let\u0026rsquo;s open a Terminal in SageMaker studio by going to File \u0026gt; New \u0026gt; Terminal and perform the following commands\ngit clone https://github.com/saeedaghabozorgi/MLAI.git On the left sidebar, we\u0026rsquo;ll see a new folder called \u0026ldquo;MLAI\u0026rdquo;\n"
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/authors/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": "   "
+},
+{
+	"uri": "/more_resources/",
+	"title": "More Resources",
+	"tags": [],
+	"description": "",
+	"content": "Discover more AWS resources for building and running Machine Learnig projects on Amazon SageMaker:\n  More Hands on Labs\n  Developer resources\n  Youtube - Technical Deep Dive Playlist\n  Edx Course on Sagemaker\n  "
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

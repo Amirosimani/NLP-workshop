@@ -1,6 +1,6 @@
 +++
-title = "SageMaker Studio Workshop"
-date = 2020-06-27T08:16:25-06:00
+title = "NLP on AWS"
+date = 2021-07-27T08:16:25-06:00
 weight = 1
 type = "mylayout"
 chapter = true
