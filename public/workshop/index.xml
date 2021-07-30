@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on AWS on Get Started on Amazon SageMaker</title>
+    <link>/workshop/</link>
+    <description>Recent content in NLP on AWS on Get Started on Amazon SageMaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jul 2021 08:16:25 -0600</lastBuildDate><atom:link href="/workshop/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugging Face on Get Started on Amazon SageMaker</title>
+    <link>/workshop/4_byoc/</link>
+    <description>Recent content in Hugging Face on Get Started on Amazon SageMaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 08:16:25 -0600</lastBuildDate><atom:link href="/workshop/4_byoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Word-level language modeling using PyTorch</title>
+      <link>/workshop/4_byoc/pytorch_rnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshop/4_byoc/pytorch_rnn/</guid>
+      <description>Contents  Background Setup Data Train Host   Background This example trains a multi-layer LSTM RNN model on a language modeling task based on PyTorch example. By default, the training script uses the Wikitext-2 dataset. We will train a model on SageMaker, deploy it, and then use deployed model to generate new text.
+For more information about the PyTorch in SageMaker, please visit sagemaker-pytorch-containers and sagemaker-python-sdk github repositories.
+ Setup This notebook was created and tested on an ml.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,25 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/workshop/</loc>
+    <lastmod>2021-07-27T08:16:25-06:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2020-06-27T08:16:25-06:00</lastmod>
+    <lastmod>2021-07-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/</loc>
-    <lastmod>2020-06-27T08:16:25-06:00</lastmod>
-  </url><url>
-    <loc>/workshop-sm-studio/1_gettingstarted/</loc>
+    <loc>/workshop/1_gettingstarted/</loc>
     <lastmod>2020-04-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/2_builtin/</loc>
+    <loc>/workshop/2_builtin/</loc>
     <lastmod>2020-04-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/1_gettingstarted/create/</loc>
+    <loc>/workshop/3_scriptmode/</loc>
+    <lastmod>2020-04-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/2_builtin/create/</loc>
+    <loc>/workshop/4_byoc/</loc>
+    <lastmod>2020-04-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/1_gettingstarted/clone/</loc>
+    <loc>/workshop/5_huggingface/</loc>
+    <lastmod>2020-04-27T08:16:25-06:00</lastmod>
   </url><url>
-    <loc>/workshop-sm-studio/2_builtin/clone/</loc>
+    <loc>/workshop/1_gettingstarted/create/</loc>
+  </url><url>
+    <loc>/workshop/3_scriptmode/pytorch_rnn/</loc>
+  </url><url>
+    <loc>/workshop/4_byoc/pytorch_rnn/</loc>
+  </url><url>
+    <loc>/workshop/1_gettingstarted/clone/</loc>
+  </url><url>
+    <loc>/workshop/5_huggingface/hf_spot_notebook/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use a custom Docker image on Get Started on Amazon SageMaker</title>
+    <link>/workshop/5_huggingface/</link>
+    <description>Recent content in Use a custom Docker image on Get Started on Amazon SageMaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 08:16:25 -0600</lastBuildDate><atom:link href="/workshop/5_huggingface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/workshop/5_huggingface/hf_spot_notebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshop/5_huggingface/hf_spot_notebook/</guid>
+      <description>Huggingface Sagemaker-sdk - Spot instances example Binary Classification with Trainer and imdb dataset  Introduction Development Environment and Permissions  Installation Development environment Permissions   Processing  Tokenization Uploading data to sagemaker_session_bucket   Fine-tuning &amp;amp; starting Sagemaker Training Job  Creating an Estimator and start a training job Estimator Parameters Download fine-tuned model from s3 Attach to old training job to an estimator    Coming soon:Push model to the Hugging Face hub  Introduction Welcome to our end-to-end binary Text-Classification example.</description>
+    </item>
+    
+  </channel>
+</rss>
