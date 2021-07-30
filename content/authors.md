@@ -2,7 +2,10 @@
 title: Credits
 disableToc: true
 ---
-- 
+
+* Amir Imani
+* Simon Zamarin
+* Heiko Hotz
 
 
 <!---
