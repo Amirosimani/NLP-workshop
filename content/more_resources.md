@@ -5,6 +5,10 @@ disableToc: true
 
 Discover more AWS resources for building and running Machine Learnig projects on Amazon SageMaker:
 
+1. [AWS AI/ML NLP](resources/AWS_AIML-NLP.pptx)
+
+1. [Intro to NLP](../resources/NLP_Introduction.pptx)
+
 1. [More Hands on Labs](https://github.com/awslabs/amazon-sagemaker-examples)
 
 1. [Developer resources](https://aws.amazon.com/sagemaker/developer-resources/)
