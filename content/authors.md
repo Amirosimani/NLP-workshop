@@ -3,8 +3,8 @@ title: Credits
 disableToc: true
 ---
 
-* Amir Imani
-* Simon Zamarin
+* Amir Imani, AI/ML Solutions Architect
+* Simon Zamarin, AI/ML Solutions Architect
 * Heiko Hotz
 
 
