@@ -26,7 +26,7 @@ weight: 1
 ----
 
 
-Workshop website: http://bit.ly/nlp
+<!-- Workshop website: http://bit.ly/nlp
 
 
 
@@ -40,4 +40,4 @@ Workshop website: http://bit.ly/nlp
 | 10:30 AM \- 10:40 AM |              | Break                              |
 | 10:40 AM \- 10:50 AM | Presentation |                    |
 | 10:50 AM \- 11:50 AM | Lab          |                    |
-| 11:20 AM \- 12:00 AM |              |                      |
+| 11:20 AM \- 12:00 AM |              |                      | -->
