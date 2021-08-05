@@ -9,7 +9,17 @@ weight: 1
 * Presentation 
 	* [AWS AI/ML NLP](resources/AWS_AIML-NLP.pptx)
 	* [Intro to NLP](../resources/NLP_Introduction.pptx)
-* Lab
+* Labs
+	* SageMaker Built-in Algorithms:
+		* BlazingText
+		* LDA
+		* NTM
+	* SageMaker script-mode:
+		* Word-level language modeling using PyTorch
+	* SageMaker Bring your Own Container:
+		* Distributed data parallel BERT training with TensorFlow 2 and SageMaker distributed
+	* SageMaker and Huggingface integration:
+		* Huggingface Sagemaker-sdk - Spot instances example
 
 
 
