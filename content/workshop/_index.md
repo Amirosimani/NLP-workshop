@@ -1,5 +1,5 @@
 +++
-title = "NLP on AWS"
+title = "NLP with SageMaker"
 date = 2021-07-27T08:16:25-06:00
 weight = 1
 type = "mylayout"
@@ -7,7 +7,7 @@ chapter = true
 +++
 
 
-<!-- Amazon SageMaker Studio is an integrated development environment (IDE) that gives you complete access, control, and visibility into each step required to build, train, and deploy models. You can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, compare results, and deploy models to production all in one place, making you much more productive..
+Amazon SageMaker Studio is an integrated development environment (IDE) that gives you complete access, control, and visibility into each step required to build, train, and deploy models. You can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, compare results, and deploy models to production all in one place, making you much more productive..
 
 Amazon SageMaker makes it easy to train machine learning (ML) models by providing everything you need to tune and debug models and execute training experiments. After you choose the right algorithms and frameworks from the wide range of choices available, it manages all of the underlying infrastructure to train your model at petabyte scale, and deploy it to production.
 
@@ -20,4 +20,3 @@ In this workshop you will learn how to use __Amazon SageMaker Studio__ to train 
 * How to distribute your training job
 * How to tune your model
 * How to get full visibility into the training process through Amazon SageMaker Debugger
- -->
